@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: pink;
+}
+
+span{
+    background: url(https://www.freepik.com/icon/angel_3963373#fromView=search&page=1&position=4&uuid=91a68e9b-3502-4207-8037-640eb163afbc);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-size: cover;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
